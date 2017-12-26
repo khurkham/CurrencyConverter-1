@@ -1,2 +1,9 @@
 # CurrencyConverter
 Currency Converter , an Android Application to Convert between different currency formats. The Currency exchange rates are fetched in real-time using http://fixer.io JSON API Endpoint.
+
+
+>Screenshots
+
+![screenshot1](https://s10.postimg.org/osqhx157t/screener_1514302925132.png "Currency Converter Screenshot")
+![screenshot2](https://s10.postimg.org/ndox8doq1/screener_1514302938611.png  "Currency Converter Screenshot")
+![screenshot3](https://s10.postimg.org/qkjgs0oll/screener_1514302954713.png  "Currency Converter Screenshot")
